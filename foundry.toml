@@ -9,8 +9,8 @@ via_ir = false
 ffi = true
 
 [rpc_endpoints]
-sepolia = "https://rpc.sepolia.org/"
-op_sepolia = "https://sepolia.optimism.io"
+sepolia = "https://polygon-mainnet.infura.io/v3/<Polygon_Infura_KEY>"
+op_sepolia = "https://mainnet.base.org/"
 
 [etherscan]
 sepolia = { key = "${ETHERSCAN_API_KEY}" }
