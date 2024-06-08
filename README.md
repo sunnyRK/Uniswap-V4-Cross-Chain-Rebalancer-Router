@@ -19,3 +19,6 @@ $ forge build
 ```shell
 $ forge test
 ```
+
+### Follow for more
+Twitter: https://x.com/RadadiyaSunny
